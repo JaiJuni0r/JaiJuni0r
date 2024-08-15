@@ -1,8 +1,20 @@
-### Olá mundo! Eu me chamo Jailson Junior e seja bem vindo!
+### Olá, mundo! 
+### Eu me chamo Jailson Junior e seja bem vindo!
+
+  <div style="display: inline_block"><br>
+    
+:man_technologist: Estou me tornando em desenvolvedor, com foco em Back-end e data Scienci.
+:man_student: Estudando Ciência da computação, no 1° Semestre.
+:man_office_worker: Atualmente, trabalho como Assistênte Tecnico em T.I.
+:mag: Amo aprender novas tecnologias!
+:computer: E no meu tempo livre:
+  - :video_game: Jogar video-game;
+  - :books: Ler sobre historia ou ficção cientifica;
+  - :couplekiss: Passar um tempo com a familia.
+
 
 <div align="center">
   <a href="https://github.com/JaiJuni0r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaijuni0r&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaijuni0r&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
