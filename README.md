@@ -4,13 +4,15 @@
   <div style="display: inline_block"><br>
     
 :man_technologist: Estou me tornando em desenvolvedor, com foco em Back-end e data Scienci.<br>
-:man_student: Estudando Ciência da computação, no 1° Semestre.<br>
-:man_office_worker: Atualmente, trabalho como Assistênte Tecnico em T.I.<br>
-:mag: Amo aprender novas tecnologias!<br>
-:computer: E no meu tempo livre:
-  - :video_game: Jogar video-game;
-  - :books: Ler sobre historia ou ficção cientifica;
-  - :couplekiss: Passar um tempo com a familia.
+<li> :man_student: Estudando Ciência da computação, no 1° Semestre.<br>
+<li> :man_office_worker: Atualmente, trabalho como Assistênte Tecnico em T.I.<br>
+<li> :mag: Amo aprender novas tecnologias!<br>
+<li> :computer: E no meu tempo livre gosto de:
+<ul> :video_game: Jogar video-game; <br>
+:books: Ler sobre historia ou ficção cientifica; <br>
+:clapper: Assistir uma boa comêdia; <br>
+:fork_and_knife:  Cozinhar alguma receita milaborante!
+</ul>
 
 
 <div align="center">
