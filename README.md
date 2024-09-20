@@ -3,7 +3,7 @@
 
   <div style="display: inline_block"><br>
     
-:man_technologist: Estou me tornando em desenvolvedor, com foco em Back-end e data Scienci.<br>
+:man_technologist: Estou me tornando em desenvolvedor, com foco em Back-End e Data Scienci.<br>
 :man_student: Estudando Ciência da computação, no 1° Semestre.<br>
 :man_office_worker: Atualmente, trabalho como Assistênte Tecnico em T.I.<br>
 :mag: Amo aprender novas tecnologias!<br>
